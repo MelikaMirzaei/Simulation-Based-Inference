@@ -1,2 +1,2 @@
 # Simulation-Based-Inference
-What I learned in a workshop.
+What I've learned in a workshop.
